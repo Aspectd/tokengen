@@ -1,0 +1,21 @@
+# for new versions buy at discord.gg/HN4VJjsfBR
+
+
+[ profile ]
+enableDev = true
+addHype   = true
+addPFP    = true
+addBio    = true
+
+
+[ data ]
+username  = "" # blank = random
+joinGuild = "" # invite code ~ blank = dont join
+threads   = 10
+debug     = true
+showLockd = false
+
+
+[ captcha ]
+service  = "CAPSOLVER"
+capKey   = ''
